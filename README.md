@@ -58,38 +58,38 @@ We welcome contributions to make this project even better! Please follow the ste
 
 ### 1. Fork the Repository
 
-Navigate to the repository page.
+* Navigate to the repository page.
 
-Click the Fork button in the top-right corner to create your own copy of the repository.
+* Click the Fork button in the top-right corner to create your own copy of the repository.
 
 ### 2. Clone Your Fork
 
-Clone your forked repository to your local machine:
+* Clone your forked repository to your local machine:
 
 git clone <your-forked-repo-url>
 cd ascii-art-generator
 
 ### 3. Create a New Branch
 
-Create a new branch for your feature or bug fix:
-
+* Create a new branch for your feature or bug fix:
+```
 git checkout -b feature/your-feature-name
-
+```
 ### 4. Make Your Changes
 
-Edit the code or documentation as needed.
+* Edit the code or documentation as needed.
 
-Ensure that the changes follow the project's coding standards and guidelines.
+* Ensure that the changes follow the project's coding standards and guidelines.
 
 ### 5. Test Your Changes
 
-Run the project to ensure that your changes work as expected:
-
+* Run the project to ensure that your changes work as expected:
+```
 python ascii_art_generator.py
-
+```
 ### 6. Commit and Push
 
-Commit your changes with a clear and concise commit message:
+* Commit your changes with a clear and concise commit message:
 ```
 git add .
 git commit -m "Add feature: your-feature-name"
@@ -100,21 +100,21 @@ git push origin feature/your-feature-name
 ```
 ### 7. Submit a Pull Request
 
-Navigate to the original repository and click the Pull Requests tab.
+* Navigate to the original repository and click the Pull Requests tab.
 
-Click New Pull Request and select your branch to merge into the main repository.
+* Click New Pull Request and select your branch to merge into the main repository.
 
-Provide a clear title and description for your pull request, explaining what changes you made and why.
+* Provide a clear title and description for your pull request, explaining what changes you made and why.
 
-Code of Conduct
+### Code of Conduct
 
-Be respectful to other contributors.
+* Be respectful to other contributors.
 
-Ensure your code is clean and well-documented.
+* Ensure your code is clean and well-documented.
 
-Write meaningful commit messages and comments.
+* Write meaningful commit messages and comments.
 
-License
+## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
