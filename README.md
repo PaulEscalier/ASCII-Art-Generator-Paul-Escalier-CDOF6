@@ -94,7 +94,7 @@ python ascii_art_generator.py
 git add .
 git commit -m "Add feature: your-feature-name"
 ```
-Push the branch to your forked repository:
+* Push the branch to your forked repository:
 ```
 git push origin feature/your-feature-name
 ```
