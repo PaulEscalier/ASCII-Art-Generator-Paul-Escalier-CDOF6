@@ -69,25 +69,25 @@ Clone your forked repository to your local machine:
 git clone <your-forked-repo-url>
 cd ascii-art-generator
 
-3. Create a New Branch
+### 3. Create a New Branch
 
 Create a new branch for your feature or bug fix:
 
 git checkout -b feature/your-feature-name
 
-4. Make Your Changes
+### 4. Make Your Changes
 
 Edit the code or documentation as needed.
 
 Ensure that the changes follow the project's coding standards and guidelines.
 
-5. Test Your Changes
+### 5. Test Your Changes
 
 Run the project to ensure that your changes work as expected:
 
 python ascii_art_generator.py
 
-6. Commit and Push
+### 6. Commit and Push
 
 Commit your changes with a clear and concise commit message:
 
@@ -98,7 +98,7 @@ Push the branch to your forked repository:
 
 git push origin feature/your-feature-name
 
-7. Submit a Pull Request
+### 7. Submit a Pull Request
 
 Navigate to the original repository and click the Pull Requests tab.
 
