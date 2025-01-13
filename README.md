@@ -14,14 +14,6 @@ The ASCII Art Generator is a simple Python-based tool that converts text into AS
 
 ## How to Run the Project
 
-### Prerequisites
-
-1. Python 3.6 or higher installed on your system.
-
-2. Install the required Python library pyfiglet using the following command:
-```
-pip install pyfiglet
-```
 ### Running the Project
 
 1. Clone the repository to your local system:
