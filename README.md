@@ -6,11 +6,11 @@ The ASCII Art Generator is a simple Python-based tool that converts text into AS
 
 ### Key Features
 
-Converts user-provided text into ASCII art.
+* Converts user-provided text into ASCII art.
 
-Supports multiple font styles (over 200 fonts).
+* Supports multiple font styles (over 200 fonts).
 
-Lightweight and minimal dependencies.
+* Lightweight and minimal dependencies.
 
 ## How to Run the Project
 
@@ -90,14 +90,14 @@ python ascii_art_generator.py
 ### 6. Commit and Push
 
 Commit your changes with a clear and concise commit message:
-
+```
 git add .
 git commit -m "Add feature: your-feature-name"
-
+```
 Push the branch to your forked repository:
-
+```
 git push origin feature/your-feature-name
-
+```
 ### 7. Submit a Pull Request
 
 Navigate to the original repository and click the Pull Requests tab.
