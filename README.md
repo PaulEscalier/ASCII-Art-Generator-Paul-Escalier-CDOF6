@@ -1,10 +1,10 @@
-#ASCII Art Generator Documentation
+# ASCII Art Generator Documentation
 
-##Project Description
+## Project Description
 
 The ASCII Art Generator is a simple Python-based tool that converts text into ASCII art using the pyfiglet library. It allows users to create visually appealing ASCII art by providing a text input. The tool is lightweight, easy to use, and highly customizable with various font styles available.
 
-###Key Features
+### Key Features
 
 Converts user-provided text into ASCII art.
 
@@ -12,9 +12,9 @@ Supports multiple font styles (over 200 fonts).
 
 Lightweight and minimal dependencies.
 
-##How to Run the Project
+## How to Run the Project
 
-###Prerequisites
+### Prerequisites
 
 1. Python 3.6 or higher installed on your system.
 
@@ -22,7 +22,7 @@ Lightweight and minimal dependencies.
 ```
 pip install pyfiglet
 ```
-###Running the Project
+### Running the Project
 
 1. Clone the repository to your local system:
 ```
@@ -37,7 +37,7 @@ python ascii_art_generator.py
 
 4. View the generated ASCII art directly in the console.
 
-###Example
+### Example
 
 Input:
 ```
@@ -52,7 +52,7 @@ Output:
  |____/  \___/ |_|   |_| |_||_||_| |_|
 
 ```
-##Contributing Guide
+## Contributing Guide
 
 We welcome contributions to make this project even better! Please follow the steps below to get started.
 
